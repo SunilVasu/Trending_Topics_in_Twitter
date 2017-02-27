@@ -1,0 +1,55 @@
+Alabama		32.3643327,-86.2897398, 108.12
+Alaska		64.200841,-149.493673,306.336
+Arizona		34.048928,-111.093731, 197.596
+Arkansas	35.201050,-91.831833,146.022
+California	36.778261,-119.417932, 182.683
+Colorado	39.5500507,-105.78206740000002,182.683
+Connecticut	41.603221,-73.087749,39.146
+Delaware	38.910832,-75.527670,26.719
+Florida		27.664827,-81.515754,224.936
+Georgia		32.165622,-82.900075, 123.653
+Hawaii		19.896766,-155.582782, 361.638
+Idaho		44.068202,-114.742041,191.382
+Illinois	40.633125,-89.398528,167.149
+
+Indiana		40.267194,-86.134902,72.079
+Iowa		41.878003,-93.097702,122.410
+Kansas
+Kentucky
+Louisiana
+Maine		45.253783,-69.445469,111.225
+Maryland	39.045755,-76.641271,65.244
+Massachusetts	42.407211,-71.382437,50.331
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York	43.2994285,-74.21793260000004,108.12
+North Carolina	35.7595731,-79.01929969999998,80.157
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+
+South Carolina	33.836081,-81.163725, 80.157
+South Dakota
+Tennessee
+Texas		31.968599,-99.901813,382.143
+Utah
+Vermont
+Virginia
+Washington	47.751074,-120.740139, 274.646
+West Virginia
+Wisconsin
+Wyoming
+
+
